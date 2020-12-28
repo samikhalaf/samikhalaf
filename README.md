@@ -3,14 +3,12 @@
 SPANISH BELOW ⬇
 
 ## I'm a Madrid-based web fullstack developer
- > 🚨 Right now, I'm looking for a Junior Web Developer job, either front or backend, I'm passionate about both! If you're hiring, make sure you check out some of my repos so you get a sense of how I code 🔥
 
+> 🚨 Right now, I'm looking for a Junior Web Developer job, either front or backend, I'm passionate about both! If you're hiring, make sure you check out some of my repos so you get a sense of how I code 🔥
 
- As I was saying, I'm a tech enthusiast. I love software development, cibersecurity and free software.
+As I was saying, I'm a tech enthusiast. I love software development, cibersecurity and free software.
 
- I'm always working on several projects at a time, but one I'm really excited is the deploy of my own web server with a Raspberry Pi, which hopefully will host my personal website/portfolio- where all my repos will be available in a 100% real environment.
-
- 
+I'm always working on several projects at a time, but one I'm really excited is the deploy of my own web server with a Raspberry Pi, which hopefully will host my personal website/portfolio- where all my repos will be available in a 100% real environment.
 
 ## Soy un desarrollador web de Madrid
 
@@ -19,8 +17,6 @@ SPANISH BELOW ⬇
 Como decía, soy un entusiasta de la tecnología y cacharrero en general. Me gusta el desarrollo de software, la ciberseguridad y el software libre.
 
 Siempre estoy desarrollando varios proyectos al mismo tiempo, pero uno de los que más me entusiasma es el despliegue de mi propio servidor web con una Raspberry Pi, que idealmente alojará mi página web/portfolio, donde se podrán ver en un entorno 100% real todos los proyectillos que tengo por aquí.
-
-
 
 ## Languages and tools
 
@@ -63,6 +59,7 @@ Siempre estoy desarrollando varios proyectos al mismo tiempo, pero uno de los qu
 <img align="left" alt="Nginx" height="48px" src="https://linuxtips.us/wp-content/uploads/nginx-logo.png" />
 <img align="left" alt="Docker" height="48px" src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png" />
 <img align="left" alt="Linux" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
+<img align="left" alt="Wordpress" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/600px-WordPress_blue_logo.svg.png" />
 
 <br><br><br>
 

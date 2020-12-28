@@ -60,6 +60,6 @@ Si estás contratando, échale un ojo a alguno de mis repos para hacerte una ide
 
 ## Connect with me:
 
-samikhalaf94@gmail.com
+→ samikhalaf94@gmail.com
 
-https://www.linkedin.com/in/samikhalaf/
+→ https://www.linkedin.com/in/samikhalaf/

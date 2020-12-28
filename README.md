@@ -8,15 +8,11 @@ Right now, I'm looking for a Junior Web Developer job, either front or backend, 
 
 If you're hiring, make sure you check out some of my repos so you get a sense of how I code 🔥
 
-<br>
-
 ## Soy un desarrollador web de Madrid
 
 Ahora mismo ando buscando trabajo de Desarrollador Web Fullstack Junior, tanto de front como de backend, me encantan ambos.
 
 Si estás contratando, échale un ojo a alguno de mis repos para hacerte una idea de como programo 🔥.
-
-<br>
 
 ## Languages and tools
 

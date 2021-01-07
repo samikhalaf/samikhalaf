@@ -18,16 +18,16 @@ Como decía, soy un entusiasta de la tecnología y cacharrero en general. Me gus
 
 Siempre estoy desarrollando varios proyectos al mismo tiempo, pero uno de los que más me entusiasma es el despliegue de mi propio servidor web con una Raspberry Pi, que idealmente alojará mi página web/portfolio, donde se podrán ver en un entorno 100% real todos los proyectillos que tengo por aquí.
 
-## Languages and tools
+## Languages and tools // Lenguajes y herramientas
 
-### IDE and collaboration tools
+### IDE's and collaboration tools // IDE's y herramientas de colaboración
 
 <img align="left" alt="Visual Studio Code" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="48px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" alt="GitHub" width="48px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
 <br><br><br>
 
-### Programming languages
+### Programming languages // Lenguajes de programación
 
 <img align="left" alt="HTML5" height="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" height="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />  
@@ -47,13 +47,13 @@ Siempre estoy desarrollando varios proyectos al mismo tiempo, pero uno de los qu
 
 <br><br><br>
 
-### Databases
+### Databases // Bases de datos
 
 <img align="left" alt="MySQL" height="48px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-securing-mysql-and-connecting-wso-servers-yasassri-blog-18.png" />
 <img align="left" alt="MongoDB" height="48px" src="https://www.todavianose.com/wp-content/uploads/2018/04/mongo-db-design.png" />
 <br><br><br>
 
-### Other cool tech
+### Other cool tech // Otras tecnologías guays
 
 <img align="left" alt="Apache" height="48px" src="https://manualesit.com/wp-content/uploads/apache2-660x330.png" />
 <img align="left" alt="Nginx" height="48px" src="https://linuxtips.us/wp-content/uploads/nginx-logo.png" />
@@ -63,8 +63,10 @@ Siempre estoy desarrollando varios proyectos al mismo tiempo, pero uno de los qu
 
 <br><br><br>
 
-## Connect with me:
+## Connect with me // Contacta conmigo
 
 → samikhalaf94@gmail.com
 
 → https://www.linkedin.com/in/samikhalaf/
+
+[→ Download my resume // Descarga mi CV](sami-khalaf-cv3.pdf)

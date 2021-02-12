@@ -16,7 +16,9 @@ I'm always working on several projects at a time, but one I'm really excited is 
 
 Como decía, soy un entusiasta de la tecnología y cacharrero en general. Me gusta el desarrollo de software, la ciberseguridad y el software libre.
 
-Siempre estoy desarrollando varios proyectos al mismo tiempo, pero uno de los que más me entusiasma es el despliegue de mi propio servidor web con una Raspberry Pi, que idealmente alojará mi página web/portfolio, donde se podrán ver en un entorno 100% real todos los proyectillos que tengo por aquí.
+Siempre estoy desarrollando varios proyectos al mismo tiempo, pero uno de los que más me entusiasma es el despliegue de mi propio servidor web con una Raspberry Pi, que alojará mi página web/portfolio, donde se podrán ver en un entorno 100% real todos los proyectillos que tengo por aquí.
+
+Todavía está en desarrollo, pero se puede ver la página ya desplegada en [www.samikhalaf.com](www.samikhalaf.com) 
 
 ## Languages and tools // Lenguajes y herramientas
 

@@ -130,6 +130,8 @@ Todavía está en desarrollo, pero se puede ver la página ya desplegada en [www
 
 → samikhalaf94@gmail.com
 
-→ https://www.linkedin.com/in/samikhalaf/
+→ [www.samikhalaf.com](www.samikhalaf.com) 
+
+→ [Perfil de LinkedIn](https://www.linkedin.com/in/samikhalaf/)
 
 [→ Download my resume // Descarga mi CV](sami-khalaf-cv3.pdf)

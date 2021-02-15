@@ -18,7 +18,7 @@ Como decía, soy un entusiasta de la tecnología y cacharrero en general. Me gus
 
 Siempre estoy desarrollando varios proyectos al mismo tiempo, pero uno de los que más me entusiasma es el despliegue de mi propio servidor web con una Raspberry Pi, que alojará mi página web/portfolio, donde se podrán ver en un entorno 100% real todos los proyectillos que tengo por aquí.
 
-Todavía está en desarrollo, pero se puede ver la página ya desplegada en [www.samikhalaf.com](www.samikhalaf.com) 
+Todavía está en desarrollo, pero se puede ver la página ya desplegada en [www.samikhalaf.com](www.samikhalaf.com)
 
 ## Languages and tools // Lenguajes y herramientas
 
@@ -58,6 +58,10 @@ Todavía está en desarrollo, pero se puede ver la página ya desplegada en [www
 
 <a href="https://www.typescriptlang.org/" target="_blank"> 
 <img align="left" alt="TypeScript" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
+</a>
+
+<a href="https://www.gnu.org/software/bash/" target="_blank"> 
+<img align="left" alt="Bash script" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />
 </a>
 
 <a href="https://nodejs.org/es/" target="_blank"> 
@@ -130,7 +134,7 @@ Todavía está en desarrollo, pero se puede ver la página ya desplegada en [www
 
 → samikhalaf94@gmail.com
 
-→ [www.samikhalaf.com](www.samikhalaf.com) 
+→ [www.samikhalaf.com](www.samikhalaf.com)
 
 → [Perfil de LinkedIn](https://www.linkedin.com/in/samikhalaf/)
 

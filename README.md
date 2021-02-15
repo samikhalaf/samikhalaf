@@ -130,12 +130,16 @@ Todavía está en desarrollo, pero se puede ver la página ya desplegada en [www
 
 <br><br><br>
 
+<p>
+  <img alt="samikhalaf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=samikhalaf&show_icons=true&hide_border=true&theme=nord" width="52%"/>
+
+  <img align="right" alt="samikhalaf's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikhalaf&hide_border=true&layout=compact&theme=nord" width="45%"/>
+</p>
+
 ## Connect with me // Contacta conmigo
 
-→ samikhalaf94@gmail.com
-
-→ [www.samikhalaf.com](www.samikhalaf.com)
-
-→ [Perfil de LinkedIn](https://www.linkedin.com/in/samikhalaf/)
+[![Github](https://img.shields.io/github/followers/zonarolo?label=Github&style=social)](https://github.com/samikhalaf)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samikhalaf/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samikhalaf94@gmail.com)
 
 [→ Download my resume // Descarga mi CV](sami-khalaf-cv3.pdf)

@@ -140,7 +140,7 @@ Todavía está en desarrollo, pero se puede ver la página ya desplegada en [www
 
 ## Connect with me // Contacta conmigo
 
-[![Github](https://img.shields.io/github/followers/zonarolo?label=Github&style=social)](https://github.com/samikhalaf)
+[![Github](https://img.shields.io/github/followers/samikhalaf?label=Github&style=social)](https://github.com/samikhalaf)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samikhalaf/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samikhalaf94@gmail.com)
 

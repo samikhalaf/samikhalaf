@@ -10,6 +10,8 @@ As I was saying, I'm a tech enthusiast. I love software development, cibersecuri
 
 I'm always working on several projects at a time, but one I'm really excited is the deploy of my own web server with a Raspberry Pi, which hopefully will host my personal website/portfolio- where all my repos will be available in a 100% real environment.
 
+It's a WIP, but you can already see the website deployed in [www.samikhalaf.com](www.samikhalaf.com)
+
 ## Soy un desarrollador web de Madrid
 
 > 🚨 Ahora mismo ando buscando trabajo de Desarrollador Web Fullstack Junior, tanto de front como de backend, me encantan ambos. Si estás contratando, échale un ojo a alguno de mis repos para hacerte una idea de como programo 🔥.

@@ -4,9 +4,7 @@ SPANISH BELOW ⬇
 
 ## I'm a Madrid-based web fullstack developer
 
-> 🚨 Right now, I'm looking for a Junior Web Developer job, either front or backend, I'm passionate about both! If you're hiring, make sure you check out some of my repos so you get a sense of how I code 🔥
-
-As I was saying, I'm a tech enthusiast. I love software development, cibersecurity and free software.
+I'm a tech enthusiast. I love software development, cibersecurity and free software.
 
 I'm always working on several projects at a time, but one I'm really excited is the deploy of my own web server with a Raspberry Pi, which hopefully will host my personal website/portfolio- where all my repos will be available in a 100% real environment.
 
@@ -14,9 +12,7 @@ It's a WIP, but you can already see the website deployed in [www.samikhalaf.com]
 
 ## Soy un desarrollador web de Madrid
 
-> 🚨 Ahora mismo ando buscando trabajo de Desarrollador Web Fullstack Junior, tanto de front como de backend, me encantan ambos. Si estás contratando, échale un ojo a alguno de mis repos para hacerte una idea de como programo 🔥.
-
-Como decía, soy un entusiasta de la tecnología y cacharrero en general. Me gusta el desarrollo de software, la ciberseguridad y el software libre.
+Soy un entusiasta de la tecnología y cacharrero en general. Me gusta el desarrollo de software, la ciberseguridad y el software libre.
 
 Siempre estoy desarrollando varios proyectos al mismo tiempo, pero uno de los que más me entusiasma es el despliegue de mi propio servidor web con una Raspberry Pi, que alojará mi página web/portfolio, donde se podrán ver en un entorno 100% real todos los proyectillos que tengo por aquí.
 
